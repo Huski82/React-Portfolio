@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import Card from ';
-import projects from ';
+import Card from './../components/Card';
+import projects from './../projects.json';
 import './../assets/styles/portfolio.css';
+
 
 
 class Portfolio extends Component {
@@ -31,7 +32,7 @@ class Portfolio extends Component {
 
         <div className="container mb-5">
           <h1>Portfolio</h1>
-          <h3>These are projects I've worked on.</h3>
+          <h3>My Fantastic Worx!.</h3>
         </div>
           
         

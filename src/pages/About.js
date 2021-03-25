@@ -19,7 +19,7 @@ function About() {
           {/* Column to hold my picture and icons */}
           <div className="col-lg-6">
 
-            <img src={christians.jpeg} alt="christians.jpeg" className="w-100" />
+            <img src={christians} alt="christians" className="w-100" />
 
             <p>Contact Me:</p>
             <div className="row">
