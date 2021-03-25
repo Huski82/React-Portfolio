@@ -23,12 +23,10 @@ We were to make our final portfolio project, using React and to display work on 
 
 ## Usage
 
+## Screenshot
 
-
-
-
-![screenshot](./Assets/images/aboutme.png)
-![screenshot](./Assets/images/portfolio.png)
+![](./aboutme.png)
+![](./portfolio.png)
 
 
 ## Technologies

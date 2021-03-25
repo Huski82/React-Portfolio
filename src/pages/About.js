@@ -33,7 +33,7 @@ function About() {
           {/* Column for About Me */}
           <div className="col-lg-6">
             <p className="aboutText">
-            I consider my self a "Jack Of All Trades" I've been in various industries. Mostly in Healthcare and eventually moving into sales for combined 10 + years.
+            I consider myself a "Jack Of All Trades" I've been in various industries. Mostly in Healthcare and eventually moving into sales for combined 10 + years.
             </p>
       
             <p className="aboutText">
@@ -56,8 +56,8 @@ function About() {
             <p className="aboutText">
             I'm experienced in:
               <ul>
-                <li>Browser-based Technologies:  HTML5, CSS, JavaScript, jQuery, Bootstrap, and React.js</li>
-                <li>Server-side Technologies:  Node.js and Express.js</li>
+                <li>Front-End Technologies:  HTML5, CSS, JavaScript, jQuery, Bootstrap, and React.js</li>
+                <li>Back-End Technologies:  Node.js and Express.js</li>
                 <li>Databases:  MongoDB, Mongoose and MySql</li>
                 <li>API Interaction:  API, JSON, and AJAX</li>
                 <li>Deployment:  Git, GitHub Pages, and Heroku</li>
