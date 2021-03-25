@@ -1,16 +1,17 @@
 import React, { Component } from 'react';
 import Card from ';
 import projects from ';
-import '';
+import './../assets/styles/portfolio.css';
+
 
 class Portfolio extends Component {
-  // keep track of project data
+  
   state = {
     projects: projects,
   }
 
   render() {
-    // map through project data and create a Bootstrap card for each project
+    
     const projectsArr = this.state.projects;
     const newProjectsArr = projectsArr.map((project) => 
       <Card 

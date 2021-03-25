@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import christians.jpg from './../assets/images/christians.jpg';
-import '';
+import christians from './../assets/images/christians.jpg';
+import './../assets/styles/about.css';
 
 function About() {
   return (
@@ -50,7 +50,7 @@ function About() {
             </p>
 
             <p className="aboutText">
-              {/* <Link to="/portfolio" >portfolio</Link>! */}
+              {* <Link to="/portfolio" >portfolio</Link>! */}
             </p>
 
             <p className="aboutText">
