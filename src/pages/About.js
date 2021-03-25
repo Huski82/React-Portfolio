@@ -50,7 +50,7 @@ function About() {
             </p>
 
             <p className="aboutText">
-              {* <Link to="/portfolio" >portfolio</Link>! */}
+            Here's my <Link to="/portfolio" >portfolio</Link>!
             </p>
 
             <p className="aboutText">
