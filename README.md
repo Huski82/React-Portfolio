@@ -25,8 +25,8 @@ We were to make our final portfolio project, using React and to display work on 
 
 ## Screenshot
 
-![](./aboutme.png)
-![](./portfolio.png)
+![](./src/assets/images/aboutme.png)
+![](./src/assets/images/portfolio.png)
 
 
 ## Technologies
