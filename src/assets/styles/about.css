@@ -1,0 +1,22 @@
+/* .container {
+  text-align: center;
+  border: 5px solid black;
+}
+
+.row {
+  border: 2px solid orange;
+}
+
+.col {
+  border: 2px solid blue;
+} */
+
+.icon {
+  font-size: 2rem;
+  margin-left: 1rem;
+  /* margin-top: 1rem; */
+}
+
+.aboutText {
+  font-size: 0.85rem;
+}

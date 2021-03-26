@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Password Generator",
+    "image": "https://raw.githubusercontent.com/Huski82/Hw-8-My-New-Portfolio/master/assets/images/cool-background%20(5).png",
+    "description": "An App to generate a random password quickly.",
+    "technologies":  "Made with:  HTML, CSS, JavaScript.",
+    "tryLink": "https://huski82.github.io/HW-3-Password-Generator/",
+    "repository":  "https://github.com/Huski82/HW-3-Password-Generator"
+  },
+  {
+    "id": 2,
+    "name": "Weather Dashboard",
+    "image": "https://user-images.githubusercontent.com/69609097/98461273-b8bdfa80-215f-11eb-9af9-515c8821c159.png",
+    "description": "Created a Weather Dashboard that fetch from a weather API to give you the current conditions from anyplace in the world.",
+    "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Bootstrap, OpenWeather API, Moment.js, and GitHub Pages.",
+    "tryLink": "https://huski82.github.io/HW-6-Weather-Dashboard/",
+    "repository": "https://github.com/Huski82/HW-6-Weather-Dashboard"
+  },
+  {
+    "id": 3,
+    "name": "CLASS HEROES",
+    "image": "https://raw.githubusercontent.com/Huski82/ClassMonsters-X-Force/main/public/images/classHEROES.png",
+    "description": "Designing an application that can be used in a classroom setting that allows kids to participate more fully through use of comic characters.",
+    "technologies": "Made with:  HTML, CSS, JavaScript, MySql, Sequilize.",
+    "tryLink": "https://class-heros.herokuapp.com/",
+    "repository": "https://github.com/Huski82/ClassMonsters-X-Force"
+  },
+  {
+    "id": 4,
+    "name": "Note Taker",
+    "image": "https://raw.githubusercontent.com/Huski82/HW-11-NoteTaker/master/Screen-Note-Taker.png",
+    "description": "A simple note taking app that adds and deletes notes.",
+    "technologies": "Made with: JavaScript,Jquery,Express, API, JSON, and Heroku.",
+    "tryLink": "https://notetaker-cvs.herokuapp.com/notes",
+    "repository": "https://github.com/Huski82/HW-11-NoteTaker"
+  },
+  {
+    "id": 5,
+    "name": "Music For Food",
+    "image": "https://raw.githubusercontent.com/Huski82/MusicForFood/main/assets/images/ICONS/MainPage.jpg",
+    "description": "Project - 1 Creating webpage using API's to fetch data for our client-server site.",
+    "technologies": "Made with:  Javascript, API, Jquery, and CSS.",
+    "tryLink": "https://ktywelch.github.io/MusicForFood/assets/html/first-page.html",
+    "repository": "https://github.com/Huski82/MusicForFood"
+  }
+]
