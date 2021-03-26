@@ -22,7 +22,7 @@ We were to make our final portfolio project, using React and to display work on 
 * run "npm install" to install the required modules 
 
 ## Usage
-[Huski's Portfolio]().
+[Huski's Portfolio](https://react-porfolio-cvs.herokuapp.com/).
 
 ## Screenshot
 
